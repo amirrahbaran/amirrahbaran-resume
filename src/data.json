@@ -1,8 +1,34 @@
 {
-    "title" : "Hello, I am amir!",
-    "subtitle": "Full Stack Developer | Open Source",
-    "links": {
-        "github": "https://github.com/amirrahbaran",
-        "linkedin": "https://www.linkedin.com/in/amirrahbaran"
+  "title": "Hello, I am amir!",
+  "subtitle": "Full Stack Developer | Open Source",
+  "links": {
+    "github": "https://github.com/amirrahbaran",
+    "stackoverflow": "https://stackoverflow.com/cv/amirrahbaran",
+    "linkedin": "https://www.linkedin.com/in/amirrahbaran"
+  },
+  "sections": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "When I was a web developer"
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": [
+              {
+                  "image": "url",
+                  "title": "react"
+              }
+          ]
+        }
+      ]
     }
+  ]
 }
