@@ -1,6 +1,6 @@
 {
-  "title": "Hello, I am amir!",
-  "subtitle": "Full Stack Developer | Open Source",
+  "title": "Hello, I'm Amir!",
+  "subtitle": "Full Stack Developer | Open Source Enthusiast",
   "links": {
     "github": "https://github.com/amirrahbaran",
     "stackoverflow": "https://stackoverflow.com/cv/amirrahbaran",
@@ -12,7 +12,15 @@
       "items": [
         {
           "type": "p",
-          "content": "When I was a web developer"
+          "content": "I love to learn."
+        },
+        {
+          "type": "p",
+          "content": "I beleive in self-learning."
+        },
+        {
+          "type": "p",
+          "content": "When my dev senses kick-in I build presumably awesome stuff. I stay close to the community and try to keep tabs with the pace at which the web is evolving. I also like to blog what I learn."
         }
       ]
     },
@@ -21,12 +29,59 @@
       "items": [
         {
           "type": "card",
-          "content": [
-              {
-                  "image": "url",
-                  "title": "react"
-              }
-          ]
+          "content": {
+            "image": "https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-512.png",
+            "title": "React"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "https://visualpharm.com/assets/205/Javascript-595b40b85ba036ed117dd6a8.svg",
+            "title": "JavaScript"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "https://cdn.iconscout.com/icon/free/png-256/css-135-761656.png",
+            "title": "CSS"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "http://php.net//images/logos/php-logo.svg",
+            "title": "PHP"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "https://pngimage.net/wp-content/uploads/2018/06/laravel-icon-png-1.png",
+            "title": "Laravel"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "https://www.drupal.org/files/project-images/symfony1.png",
+            "title": "Symfony"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "https://img.icons8.com/metro/1600/python.png",
+            "title": "Python"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "https://cdn.onlinewebfonts.com/svg/img_437022.png",
+            "title": "Django"
+          }
         }
       ]
     }
