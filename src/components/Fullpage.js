@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+
 import "./Fullpage.css";
 
 class Fullpage extends Component {
