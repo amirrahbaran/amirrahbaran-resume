@@ -1,28 +1,16 @@
 import React, { Component } from "react";
 import data from "./data.json";
 import "./App.css";
-import { SocialIcon } from "react-social-icons";
+import TitlesAndIcons from "./sections/TitlesAndIcons";
 
 class App extends Component {
   render() {
     return (
       <div className="App">
         <div className="navigation" />
-        <div className="fullpage first">
-          <h1 className="title">{data.title}</h1>
-          <div>
-            <h2>{data.subtitle}</h2>
-          </div>
-          <div className="icons-wrapper">
-            {Object.keys(data.links).map(key => {
-              return (
-                <div className="icon">
-                  <SocialIcon url={data.links[key]} />
-                </div>
-              );
-            })}
-          </div>
-        </div>
+
+        <TitlesAndIcons />
+
         <div className="fullpage second">
           <h3>{data.sections[0].title}</h3>
           <div className="paragraphs">
