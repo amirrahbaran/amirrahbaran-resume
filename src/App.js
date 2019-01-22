@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 import IntroductionSection from "./sections/IntroductionSection";
 import AboutSection from "./sections/AboutSection";
-import SkillSection from "./sections/SkillSection.js";
+import SkillSection from "./sections/SkillSection";
 
 import "./App.css";
 

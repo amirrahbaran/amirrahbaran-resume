@@ -1,3 +1,12 @@
 .second {
   background-color: #ffff59;
 }
+
+h3 {
+  font-size: 3rem;
+}
+
+p {
+  padding-right: 40px;
+  padding-left: 40px;
+}
