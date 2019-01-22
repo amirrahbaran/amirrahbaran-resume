@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import data from "./data.json";
 import "./App.css";
-import TitlesAndIcons from "./sections/TitlesAndIcons";
+import IntroductionSection from "./sections/IntroductionSection";
 
 class App extends Component {
   render() {
@@ -9,7 +9,7 @@ class App extends Component {
       <div className="App">
         <div className="navigation" />
 
-        <TitlesAndIcons />
+        <IntroductionSection />
 
         <div className="fullpage second">
           <h3>{data.sections[0].title}</h3>

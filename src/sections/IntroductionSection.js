@@ -3,7 +3,7 @@ import Fullpage from "../components/Fullpage";
 import data from "../data.json";
 import { SocialIcon } from "react-social-icons";
 
-class TitlesAndIcons extends Component {
+class IntroductionSection extends Component {
   render() {
     return (
       <Fullpage className="first">
@@ -25,4 +25,4 @@ class TitlesAndIcons extends Component {
   }
 }
 
-export default TitlesAndIcons;
+export default IntroductionSection;
