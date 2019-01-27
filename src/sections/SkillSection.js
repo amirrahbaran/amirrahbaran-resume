@@ -8,7 +8,7 @@ import "./SkillSection.css";
 class SkillSection extends Component {
   render() {
     return (
-      <Fullpage className="third">
+      <Fullpage id={data.sections[1].title} className="third">
         <h3>{data.sections[1].title}</h3>
         <div className="cards-wrapper">
           {data.sections[1].items.map(eachSkill => (

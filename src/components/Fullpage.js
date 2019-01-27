@@ -6,7 +6,7 @@ class Fullpage extends Component {
   render() {
     const { children } = this.props;
     return (
-      <div className={`fullpage ${this.props.className || ""}`}>{children}</div>
+      <div id={this.props.id} className={`fullpage ${this.props.className || ""}`}>{children}</div>
     );
   }
 }

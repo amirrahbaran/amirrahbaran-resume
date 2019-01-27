@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 
+import Navigator from "./components/Navigator";
 import IntroductionSection from "./sections/IntroductionSection";
 import AboutSection from "./sections/AboutSection";
 import SkillSection from "./sections/SkillSection";
@@ -10,7 +11,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <div className="navigation" />
+        <Navigator />
         <IntroductionSection />
         <AboutSection />
         <SkillSection />

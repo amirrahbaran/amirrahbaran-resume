@@ -8,7 +8,7 @@ import "./IntroductionSection.css";
 class IntroductionSection extends Component {
   render() {
     return (
-      <Fullpage className="first">
+      <Fullpage id="home" className="first">
         <h1 className="title">{data.title}</h1>
         <div>
           <h2 className="subtitle">{data.subtitle}</h2>
