@@ -1,14 +1,16 @@
 .first {
-  background-color: #0e5e2f;
+  background-color: #07889b;
   color: white;
 }
 
 .title {
   font-size: 5rem;
+  padding-left: 20px;
 }
 
 .subtitle {
   color: #f3ff6f;
+  padding-left: 15px;
 }
 
 .icons-wrapper {
