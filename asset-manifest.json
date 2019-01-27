@@ -1,13 +1,13 @@
 {
-  "main.css": "/resume/static/css/main.9263ca5e.chunk.css",
-  "main.js": "/resume/static/js/main.b153b97e.chunk.js",
-  "main.js.map": "/resume/static/js/main.b153b97e.chunk.js.map",
-  "static/js/1.1c377838.chunk.js": "/resume/static/js/1.1c377838.chunk.js",
-  "static/js/1.1c377838.chunk.js.map": "/resume/static/js/1.1c377838.chunk.js.map",
-  "runtime~main.js": "/resume/static/js/runtime~main.18bea22a.js",
-  "runtime~main.js.map": "/resume/static/js/runtime~main.18bea22a.js.map",
-  "static/css/main.9263ca5e.chunk.css.map": "/resume/static/css/main.9263ca5e.chunk.css.map",
-  "index.html": "/resume/index.html",
-  "precache-manifest.d4329afe4a4705849dfddb9d791e2466.js": "/resume/precache-manifest.d4329afe4a4705849dfddb9d791e2466.js",
-  "service-worker.js": "/resume/service-worker.js"
+  "main.css": "/amirrahbaran-resume/static/css/main.9263ca5e.chunk.css",
+  "main.js": "/amirrahbaran-resume/static/js/main.9dcffc7b.chunk.js",
+  "main.js.map": "/amirrahbaran-resume/static/js/main.9dcffc7b.chunk.js.map",
+  "static/js/1.1c377838.chunk.js": "/amirrahbaran-resume/static/js/1.1c377838.chunk.js",
+  "static/js/1.1c377838.chunk.js.map": "/amirrahbaran-resume/static/js/1.1c377838.chunk.js.map",
+  "runtime~main.js": "/amirrahbaran-resume/static/js/runtime~main.97c4bbdd.js",
+  "runtime~main.js.map": "/amirrahbaran-resume/static/js/runtime~main.97c4bbdd.js.map",
+  "static/css/main.9263ca5e.chunk.css.map": "/amirrahbaran-resume/static/css/main.9263ca5e.chunk.css.map",
+  "index.html": "/amirrahbaran-resume/index.html",
+  "precache-manifest.779a8ab7700932b33959798559fe26a3.js": "/amirrahbaran-resume/precache-manifest.779a8ab7700932b33959798559fe26a3.js",
+  "service-worker.js": "/amirrahbaran-resume/service-worker.js"
 }
