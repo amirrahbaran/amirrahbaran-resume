@@ -3,5 +3,4 @@
 In this project, I prepared a SPA resume with react.
 
 ### Demo page
-https://amirrahbaran.github.io/amirrahbaran-resume
 https://amirrahbaran.github.io/amirrahbaran-resume/
